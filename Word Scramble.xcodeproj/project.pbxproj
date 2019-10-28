@@ -13,6 +13,7 @@
 		80DCE3C62365DB6100C1B61B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80DCE3C42365DB6100C1B61B /* Main.storyboard */; };
 		80DCE3C82365DB6300C1B61B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80DCE3C72365DB6300C1B61B /* Assets.xcassets */; };
 		80DCE3CB2365DB6300C1B61B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80DCE3C92365DB6300C1B61B /* LaunchScreen.storyboard */; };
+		80DCE3D32365DD0600C1B61B /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = 80DCE3D22365DD0600C1B61B /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		80DCE3C72365DB6300C1B61B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80DCE3CA2365DB6300C1B61B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80DCE3CC2365DB6300C1B61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80DCE3D22365DD0600C1B61B /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				80DCE3C42365DB6100C1B61B /* Main.storyboard */,
 				80DCE3C72365DB6300C1B61B /* Assets.xcassets */,
 				80DCE3C92365DB6300C1B61B /* LaunchScreen.storyboard */,
+				80DCE3D22365DD0600C1B61B /* start.txt */,
 				80DCE3CC2365DB6300C1B61B /* Info.plist */,
 			);
 			path = "Word Scramble";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				80DCE3CB2365DB6300C1B61B /* LaunchScreen.storyboard in Resources */,
+				80DCE3D32365DD0600C1B61B /* start.txt in Resources */,
 				80DCE3C82365DB6300C1B61B /* Assets.xcassets in Resources */,
 				80DCE3C62365DB6100C1B61B /* Main.storyboard in Resources */,
 			);
